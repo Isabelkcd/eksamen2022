@@ -1,0 +1,4 @@
+User-agent: * 
+Allow: /public/
+Disallow: /https://abbraccio.learning-2-code.dk/
+
